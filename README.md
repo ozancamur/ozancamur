@@ -11,7 +11,7 @@ Flutter&Dart (GetX, Flutter BLoC, Android, iOS, CleanCode, Performance, UI&UX), 
 Firebase & Google Cloud Run (Firestore, Realtime Database, Messaging, App Check, Storage, Cloud Functions, Authentication, Crashlytics, Analytics), <br>
 Supabase (Authentication, Storage), <br>
 RESTful API, Dynamic Links, Web Socket & One SignalR, Figma, Visual Studio Code, Android Studio <br><br>
-**Şu Anda Üzerinde Çalışıyorum:** AI ile rüya yorumlama, yorumlanmış rüyaları kullanarak AI ile psikolojik analiz ve kullanıcıların yorumlanmış rüyalarını paylaşacağı bir community sağlayan mobil app. <br><br>
+**Şu Anda Üzerinde Çalışıyorum:** AI ile rüya yorumlama, yorumlanmış rüyaları kullanarak AI ile psikolojik analiz ve kullanıcıların yorumlanmış rüyalarını paylaşabileceği community sağlayan mobil app. <br><br>
 **Fun Fact:** ne demiş Orhan Gencebay :> <br>"Hatasız ne kul olur ne de kod olur".
 
 
