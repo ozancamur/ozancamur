@@ -11,6 +11,7 @@ Teknolojiler: [Örn: JavaScript, Python, React, TensorFlow, Flutter]
 Şu Anda Üzerinde Çalışıyorum: [Mevcut projeni veya hedefini yaz, örn: "Kişisel bir portföy sitesi geliştiriyorum."]
 Fun Fact: [Kişisel bir detay, örn: "Kahve ve iyi bir playlist olmadan kod yazamam!"]
 
+
 📈 Projelerim
 
 fely: Bu proje, günlük alışverişlerde kullanıcıların QR kod ile hızlı ve güvenli ödeme yapmasını sağlayan bir sadakat ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics gibi teknolojileri kullanarak güçlü bir ekosistem sunmaktadır.
@@ -23,7 +24,7 @@ akripol: Akripol mobil uygulaması, AkzoNobel Vehicle Refinishes ürünlerine er
 
 whitelabel coffee apps: 
 Bu uygulamalar, kullanıcıların bir işletmeye ait cüzdanı kullanarak sadakat ödemelerini kolayca yapmalarını sağlayan bir mobil platformdur. Tek bir işletmeye özel olarak tasarlanmış bu uygulama, ödeme işlemlerini hızlı, güvenli ve pratik bir hale getirirken, aynı zamanda kullanıcıların sadakat programlarına dahil olmalarını da sağlar.  Flutter & Dart ile geliştirilen uygulama, Restful API ve Firebase Messaging gibi teknolojileri kullanılmıştır.
--
+
 Kaffee Stimmung
 Cirrus Coffee
 Being Coffee
