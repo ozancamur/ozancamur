@@ -36,5 +36,6 @@ Parachute Coffee
 Tortuga
 
 📫 Bana Ulaşın
-E-posta: [e-posta adresin(ozancamur1006@gmail.com)]
-LinkedIn: [[LinkedIn profil linkin](https://www.linkedin.com/in/ozancamur/)]
+E-posta: ozancamur1006@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ozancamur/
