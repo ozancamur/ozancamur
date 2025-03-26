@@ -14,9 +14,8 @@ Fun Fact: [Kişisel bir detay, örn: "Kahve ve iyi bir playlist olmadan kod yaza
 
 📈 Projelerim
 
-fely: Bu proje, günlük alışverişlerde kullanıcıların QR kod ile hızlı ve güvenli ödeme yapmasını sağlayan bir sadakat ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics gibi teknolojileri kullanarak güçlü bir ekosistem sunmaktadır.
-
-[ios](https://apps.apple.com/tr/app/fely/id6443499504) & [android](https://play.google.com/store/apps/details?id=com.festivalpayment.fpay_mobile&hl=en)
+fely: [ios](https://apps.apple.com/tr/app/fely/id6443499504) & [android](https://play.google.com/store/apps/details?id=com.festivalpayment.fpay_mobile&hl=en)
+<br> Bu proje, günlük alışverişlerde kullanıcıların QR kod ile hızlı ve güvenli ödeme yapmasını sağlayan bir sadakat ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics gibi teknolojileri kullanarak güçlü bir ekosistem sunmaktadır.
 
 staffely: Staffely, yalnızca çalışanların ödeme almasına yönelik özel olarak geliştirilen bir QR kod tabanlı ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics entegrasyonları sayesinde güvenli, hızlı ve kullanıcı dostu bir deneyim sunar. 
 [ios](https://apps.apple.com/tr/app/staffely/id6450368658) & [android](https://play.google.com/store/apps/details?id=app.fely.staff)
@@ -30,7 +29,7 @@ akripol: Akripol mobil uygulaması, AkzoNobel Vehicle Refinishes ürünlerine er
 whitelabel coffee apps: 
 Bu uygulamalar, kullanıcıların bir işletmeye ait cüzdanı kullanarak sadakat ödemelerini kolayca yapmalarını sağlayan bir mobil platformdur. Tek bir işletmeye özel olarak tasarlanmış bu uygulama, ödeme işlemlerini hızlı, güvenli ve pratik bir hale getirirken, aynı zamanda kullanıcıların sadakat programlarına dahil olmalarını da sağlar.  Flutter & Dart ile geliştirilen uygulama, Restful API ve Firebase Messaging gibi teknolojileri kullanılmıştır.
 
-Kaffee Stimmung  [ios](https://apps.apple.com/tr/app/kaffee-stimmung/id6689512651) & [android](https://play.google.com/store/apps/details?id=app.fely.id34)
+Kaffee Stimmung  [ios](https://apps.apple.com/tr/app/kaffee-stimmung/id6689512651) & [android](https://play.google.com/store/apps/details?id=app.fely.id34) <br>
 Cirrus Coffee  [ios](https://apps.apple.com/tr/app/cirrus-coffee/id6739848840) & [android](https://play.google.com/store/apps/details?id=app.fely.id39)
 Being Coffee  [ios](https://apps.apple.com/tr/app/being-coffee/id6739848848) & [android](https://play.google.com/store/apps/details?id=app.fely.id41)
 Piramit Pastanesi  [ios](https://apps.apple.com/tr/app/piramit-pastanesi/id6739848860) & [android](https://play.google.com/store/apps/details?id=app.fely.id40)
