@@ -5,9 +5,9 @@ Ben bir Flutter geliştirici, mobil dünyada kullanıcı dostu ve şık uygulama
 Dart ve Flutter’ın gücüyle, fikirleri hayata geçirmeyi ve her pikselin kusursuz olmasını sağlamayı hedefliyorum. 
 Kod yazarken hem performansa hem de estetiğe önem veriyorum.
 
-🌟 Hakkımda
-Uzmanlık Alanım: Flutter & Dart Mobil Uygulama Geliştiricisi
-Teknolojiler: 
+🌟 Hakkımda <br>
+Uzmanlık Alanım: Flutter & Dart Mobil Uygulama Geliştiricisi <br>
+Teknolojiler: <br>
 Flutter&Dart (GetX, Flutter BLoC, Android, iOS, CleanCode, Performance, UI&UX), <br>
 Firebase & Google Cloud Run (Firestore, Realtime Database, Messaging, App Check, Storage, Cloud Functions, Authentication, Crashlytics, Analytics), <br>
 Supabase (Authentication, Storage), <br>
