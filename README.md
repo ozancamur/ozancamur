@@ -40,6 +40,6 @@ Nou Breakfast  [ios](https://apps.apple.com/tr/app/nou-breakfast/id6695745186) &
 Parachute Coffee  [ios](https://apps.apple.com/tr/app/parachute-coffee/id6737855691) & [android](https://play.google.com/store/apps/details?id=app.fely.id38) <br>
 Tortuga  [ios](https://apps.apple.com/tr/app/tortuga/id6720740715) & [android](https://play.google.com/store/apps/details?id=app.fely.id23) <br>
 
-📫 Bana Ulaşın
-E-posta: ozancamur1006@gmail.com
+📫 Bana Ulaşın <br>
+E-posta: ozancamur1006@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/ozancamur/
