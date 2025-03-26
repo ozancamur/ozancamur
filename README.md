@@ -104,17 +104,17 @@ Ne demiş Orhan Gencebay: *"Hatasız ne kul olur ne de kod olur"* 😊
 - **Açıklama:** Günlük alışverişlerde kullanıcıların QR kod ile hızlı ve güvenli ödeme yapmasını sağlayan bir sadakat ödeme uygulaması.  
 - **Teknolojiler:** Flutter, Dart, Restful API, Firebase Messaging, Firebase Analytics
 
-### **staffely (https://apps.apple.com/tr/app/staffely/id6450368658) & [android](https://play.google.com/store/apps/details?id=app.fely.staff)**  
+### **staffely [ios](https://apps.apple.com/tr/app/staffely/id6450368658) & [android](https://play.google.com/store/apps/details?id=app.fely.staff)**  
 - **Platform:** iOS & Android  
 - **Açıklama:** Çalışanların ödeme almasına yönelik özel olarak geliştirilmiş QR kod tabanlı ödeme uygulaması.  
 - **Teknolojiler:** Flutter, Dart, Restful API, Firebase Messaging, Firebase Analytics
 
-### **tidybox (https://apps.apple.com/tr/app/tidyboxapp/id6739962001) & [android](https://play.google.com/store/apps/details?id=com.botart.app.tidybox)**  
+### **tidybox [ios](https://apps.apple.com/tr/app/tidyboxapp/id6739962001) & [android](https://play.google.com/store/apps/details?id=com.botart.app.tidybox)**  
 - **Platform:** iOS & Android  
 - **Açıklama:** Eşyalarınızı yönetmenizi ve kolayca bulmanızı sağlayan bir uygulama. Yapay zeka destekli görüntü işleme ile kutuların içeriğini tanımlamanıza yardımcı olur.  
 - **Teknolojiler:** Flutter, Dart, Firebase, AI
 
-### **akripol (https://apps.apple.com/tr/app/akripol/id1536710189?l=tr) & [android](https://play.google.com/store/apps/details?id=tr.com.akripol.mobile)**  
+### **akripol [ios](https://apps.apple.com/tr/app/akripol/id1536710189?l=tr) & [android](https://play.google.com/store/apps/details?id=tr.com.akripol.mobile)**  
 - **Platform:** iOS & Android  
 - **Açıklama:** AkzoNobel Vehicle Refinishes ürünlerine hızlı erişimi sağlayan uygulama.  
 - **Teknolojiler:** Flutter, Dart, Restful API, Firebase Messaging
