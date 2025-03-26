@@ -15,27 +15,31 @@ Fun Fact: [Kişisel bir detay, örn: "Kahve ve iyi bir playlist olmadan kod yaza
 📈 Projelerim
 
 fely: Bu proje, günlük alışverişlerde kullanıcıların QR kod ile hızlı ve güvenli ödeme yapmasını sağlayan bir sadakat ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics gibi teknolojileri kullanarak güçlü bir ekosistem sunmaktadır.
+
 [ios](https://apps.apple.com/tr/app/fely/id6443499504) & [android](https://play.google.com/store/apps/details?id=com.festivalpayment.fpay_mobile&hl=en)
 
-staffely: Staffely, yalnızca çalışanların ödeme almasına yönelik özel olarak geliştirilen bir QR kod tabanlı ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics entegrasyonları sayesinde güvenli, hızlı ve kullanıcı dostu bir deneyim sunar.
+staffely: Staffely, yalnızca çalışanların ödeme almasına yönelik özel olarak geliştirilen bir QR kod tabanlı ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics entegrasyonları sayesinde güvenli, hızlı ve kullanıcı dostu bir deneyim sunar. 
+[ios](https://apps.apple.com/tr/app/staffely/id6450368658) & [android](https://play.google.com/store/apps/details?id=app.fely.staff)
 
 tidybox: TidyBox, eşyalarınızı yönetmenizi ve kolayca bulmanızı sağlayan, Flutter ile geliştirilmiş ve lokal veri depolama kullanan bir mobil uygulamadır. Yapay zeka destekli görüntü işleme teknolojisiyle, kutuların veya depolama alanlarının içeriğini açmadan tanımlamanıza yardımcı olur.
+[ios](https://apps.apple.com/tr/app/tidyboxapp/id6739962001) & [android](https://play.google.com/store/apps/details?id=com.botart.app.tidybox)
 
 akripol: Akripol mobil uygulaması, AkzoNobel Vehicle Refinishes ürünlerine erişimi çok daha kolay hale getiriyor. Bu uygulama ile aradığınız araç rengindeki Akripol ürünleri ve hazır karışım boyaları bulmak artık daha hızlı ve pratik. Flutter & Dart ile geliştirilen uygulama, Restful API ve Firebase Messaging gibi teknolojileri kullanılmıştır. 
+[ios](https://apps.apple.com/tr/app/akripol/id1536710189?l=tr) & [android](https://play.google.com/store/apps/details?id=tr.com.akripol.mobile)
 
 whitelabel coffee apps: 
 Bu uygulamalar, kullanıcıların bir işletmeye ait cüzdanı kullanarak sadakat ödemelerini kolayca yapmalarını sağlayan bir mobil platformdur. Tek bir işletmeye özel olarak tasarlanmış bu uygulama, ödeme işlemlerini hızlı, güvenli ve pratik bir hale getirirken, aynı zamanda kullanıcıların sadakat programlarına dahil olmalarını da sağlar.  Flutter & Dart ile geliştirilen uygulama, Restful API ve Firebase Messaging gibi teknolojileri kullanılmıştır.
 
-Kaffee Stimmung
-Cirrus Coffee
-Being Coffee
-Piramit Pastanesi
-Asperitas Coffee
-2Oz Coffee
-Bang Bang Coffee
-Nou Breakfast
-Parachute Coffee
-Tortuga
+Kaffee Stimmung  [ios](https://apps.apple.com/tr/app/kaffee-stimmung/id6689512651) & [android](https://play.google.com/store/apps/details?id=app.fely.id34)
+Cirrus Coffee  [ios](https://apps.apple.com/tr/app/cirrus-coffee/id6739848840) & [android](https://play.google.com/store/apps/details?id=app.fely.id39)
+Being Coffee  [ios](https://apps.apple.com/tr/app/being-coffee/id6739848848) & [android](https://play.google.com/store/apps/details?id=app.fely.id41)
+Piramit Pastanesi  [ios](https://apps.apple.com/tr/app/piramit-pastanesi/id6739848860) & [android](https://play.google.com/store/apps/details?id=app.fely.id40)
+Asperitas Coffee  [ios](https://apps.apple.com/tr/app/asperitas-coffee/id6739963223) & [android](https://play.google.com/store/apps/details?id=app.fely.id42)
+2Oz Coffee  [ios](https://apps.apple.com/tr/app/2oz-coffee/id6695745335) & [android](https://play.google.com/store/apps/details?id=app.fely.id36)
+Bang Bang Coffee  [ios](https://apps.apple.com/tr/app/bang-bang-coffee/id6695745580) & [android](https://play.google.com/store/apps/details?id=app.fely.id37)
+Nou Breakfast  [ios](https://apps.apple.com/tr/app/nou-breakfast/id6695745186) & [android](https://play.google.com/store/apps/details?id=app.fely.id35)
+Parachute Coffee  [ios](https://apps.apple.com/tr/app/parachute-coffee/id6737855691) & [android](https://play.google.com/store/apps/details?id=app.fely.id38)
+Tortuga  [ios](https://apps.apple.com/tr/app/tortuga/id6720740715) & [android](https://play.google.com/store/apps/details?id=app.fely.id23)
 
 📫 Bana Ulaşın
 E-posta: ozancamur1006@gmail.com
