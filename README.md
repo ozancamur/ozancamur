@@ -14,7 +14,7 @@ Fun Fact: [Kişisel bir detay, örn: "Kahve ve iyi bir playlist olmadan kod yaza
 
 📈 Projelerim
 
-fely: Bu proje, günlük alışverişlerde kullanıcıların QR kod ile hızlı ve güvenli ödeme yapmasını sağlayan bir sadakat ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics gibi teknolojileri kullanarak güçlü bir ekosistem sunmaktadır.
+[fely](https://play.google.com/store/apps/details?id=com.festivalpayment.fpay_mobile&hl=en): Bu proje, günlük alışverişlerde kullanıcıların QR kod ile hızlı ve güvenli ödeme yapmasını sağlayan bir sadakat ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics gibi teknolojileri kullanarak güçlü bir ekosistem sunmaktadır.
 
 staffely: Staffely, yalnızca çalışanların ödeme almasına yönelik özel olarak geliştirilen bir QR kod tabanlı ödeme uygulamasıdır. Flutter & Dart ile geliştirilen uygulama, Restful API, Firebase Messaging ve Firebase Analytics entegrasyonları sayesinde güvenli, hızlı ve kullanıcı dostu bir deneyim sunar.
 
@@ -38,5 +38,4 @@ Tortuga
 
 📫 Bana Ulaşın
 E-posta: ozancamur1006@gmail.com
-
 LinkedIn: https://www.linkedin.com/in/ozancamur/
