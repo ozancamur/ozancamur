@@ -6,10 +6,14 @@ Dart ve Flutter’ın gücüyle, fikirleri hayata geçirmeyi ve her pikselin kus
 Kod yazarken hem performansa hem de estetiğe önem veriyorum.
 
 🌟 Hakkımda
-Uzmanlık Alanım: [Örn: Frontend geliştirme, makine öğrenimi, mobil uygulama geliştirme]
-Teknolojiler: [Örn: JavaScript, Python, React, TensorFlow, Flutter]
-Şu Anda Üzerinde Çalışıyorum: [Mevcut projeni veya hedefini yaz, örn: "Kişisel bir portföy sitesi geliştiriyorum."]
-Fun Fact: [Kişisel bir detay, örn: "Kahve ve iyi bir playlist olmadan kod yazamam!"]
+Uzmanlık Alanım: Flutter & Dart Mobil Uygulama Geliştiricisi
+Teknolojiler: 
+Flutter&Dart (GetX, Flutter BLoC, Android, iOS, CleanCode, Performance, UI&UX), <br>
+Firebase & Google Cloud Run (Firestore, Realtime Database, Messaging, App Check, Storage, Cloud Functions, Authentication, Crashlytics, Analytics), <br>
+Supabase (Authentication, Storage), <br>
+RESTful API, Dynamic Links, Web Socket & One SignalR, Figma, Visual Studio Code, Android Studio <br><br>
+Şu Anda Üzerinde Çalışıyorum: AI ile rüya yorumlama, yorumlanmış rüyaları kullanarak AI ile psikolojik analiz ve kullanıcıların yorumlanmış rüyalarını paylaşacağı bir community sağlayan mobil app. <br><br>
+Fun Fact: ne demiş Orhan Gencebay :> <br>"Hatasız ne kul olur ne de kod olur".
 
 
 📈 Projelerim
