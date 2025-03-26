@@ -1,5 +1,5 @@
 Merhaba! <br>
-👋 Ben Ozan Çamur. <br><br>
+👋 Ben Ozan Çamur. <br>
 Ben bir Flutter geliştirici, mobil dünyada kullanıcı dostu ve şık uygulamalar yaratmayı seven biriyim. 
 Dart ve Flutter’ın gücüyle, fikirleri hayata geçirmeyi ve her pikselin kusursuz olmasını sağlamayı hedefliyorum. 
 Kod yazarken hem performansa hem de estetiğe önem veriyorum. <br><br>
