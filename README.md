@@ -22,22 +22,22 @@ Ne demiş Orhan Gencebay: *"Hatasız ne kul olur ne de kod olur"* 😊
 
 ## 📈 Projelerim
 
-### **[fely](https://apps.apple.com/tr/app/fely/id6443499504)**  
+### **fely [ios](https://apps.apple.com/tr/app/fely/id6443499504) & [android](https://play.google.com/store/apps/details?id=com.festivalpayment.fpay_mobile&hl=en)**  
 - **Platform:** iOS & Android  
 - **Açıklama:** Günlük alışverişlerde kullanıcıların QR kod ile hızlı ve güvenli ödeme yapmasını sağlayan bir sadakat ödeme uygulaması.  
 - **Teknolojiler:** Flutter, Dart, Restful API, Firebase Messaging, Firebase Analytics
 
-### **[staffely](https://apps.apple.com/tr/app/staffely/id6450368658)**  
+### **staffely (https://apps.apple.com/tr/app/staffely/id6450368658) & [android](https://play.google.com/store/apps/details?id=app.fely.staff)**  
 - **Platform:** iOS & Android  
 - **Açıklama:** Çalışanların ödeme almasına yönelik özel olarak geliştirilmiş QR kod tabanlı ödeme uygulaması.  
 - **Teknolojiler:** Flutter, Dart, Restful API, Firebase Messaging, Firebase Analytics
 
-### **[tidybox](https://apps.apple.com/tr/app/tidyboxapp/id6739962001)**  
+### **tidybox (https://apps.apple.com/tr/app/tidyboxapp/id6739962001) & [android](https://play.google.com/store/apps/details?id=com.botart.app.tidybox)**  
 - **Platform:** iOS & Android  
 - **Açıklama:** Eşyalarınızı yönetmenizi ve kolayca bulmanızı sağlayan bir uygulama. Yapay zeka destekli görüntü işleme ile kutuların içeriğini tanımlamanıza yardımcı olur.  
 - **Teknolojiler:** Flutter, Dart, Firebase, AI
 
-### **[akripol](https://apps.apple.com/tr/app/akripol/id1536710189?l=tr)**  
+### **akripol (https://apps.apple.com/tr/app/akripol/id1536710189?l=tr) & [android](https://play.google.com/store/apps/details?id=tr.com.akripol.mobile)**  
 - **Platform:** iOS & Android  
 - **Açıklama:** AkzoNobel Vehicle Refinishes ürünlerine hızlı erişimi sağlayan uygulama.  
 - **Teknolojiler:** Flutter, Dart, Restful API, Firebase Messaging
@@ -48,16 +48,16 @@ Ne demiş Orhan Gencebay: *"Hatasız ne kul olur ne de kod olur"* 😊
 - **Teknolojiler:** Flutter, Dart, Firebase, Restful API
 
 #### Kahve Uygulama Projeleri:
-- **[Kaffee Stimmung](https://apps.apple.com/tr/app/kaffee-stimmung/id6689512651)**
-- **[Cirrus Coffee](https://apps.apple.com/tr/app/cirrus-coffee/id6739848840)**
-- **[Being Coffee](https://apps.apple.com/tr/app/being-coffee/id6739848848)**
-- **[Piramit Pastanesi](https://apps.apple.com/tr/app/piramit-pastanesi/id6739848860)**
-- **[Asperitas Coffee](https://apps.apple.com/tr/app/asperitas-coffee/id6739963223)**
-- **[2Oz Coffee](https://apps.apple.com/tr/app/2oz-coffee/id6695745335)**
-- **[Bang Bang Coffee](https://apps.apple.com/tr/app/bang-bang-coffee/id6695745580)**
-- **[Nou Breakfast](https://apps.apple.com/tr/app/nou-breakfast/id6695745186)**
-- **[Parachute Coffee](https://apps.apple.com/tr/app/parachute-coffee/id6737855691)**
-- **[Tortuga](https://apps.apple.com/tr/app/tortuga/id6720740715)**
+- **Kaffee Stimmung [ios](https://apps.apple.com/tr/app/kaffee-stimmung/id6689512651) & [android](https://play.google.com/store/apps/details?id=app.fely.id34)**
+- **Cirrus Coffee [ios](https://apps.apple.com/tr/app/cirrus-coffee/id6739848840) & [android](https://play.google.com/store/apps/details?id=app.fely.id39)**
+- **Being Coffee [ios](https://apps.apple.com/tr/app/being-coffee/id6739848848) & [android](https://play.google.com/store/apps/details?id=app.fely.id41)**
+- **Piramit Pastanesi [ios](https://apps.apple.com/tr/app/piramit-pastanesi/id6739848860) & [android](https://play.google.com/store/apps/details?id=app.fely.id40)**
+- **Asperitas Coffee [ios](https://apps.apple.com/tr/app/asperitas-coffee/id6739963223) & [android](https://play.google.com/store/apps/details?id=app.fely.id42)**
+- **2Oz Coffee [ios](https://apps.apple.com/tr/app/2oz-coffee/id6695745335) & [android](https://play.google.com/store/apps/details?id=app.fely.id36)**
+- **Bang Bang Coffee [ios](https://apps.apple.com/tr/app/bang-bang-coffee/id6695745580) & [android](https://play.google.com/store/apps/details?id=app.fely.id37)**
+- **Nou Breakfast [ios](https://apps.apple.com/tr/app/nou-breakfast/id6695745186) & [android](https://play.google.com/store/apps/details?id=app.fely.id35)**
+- **Parachute Coffee [ios](https://apps.apple.com/tr/app/parachute-coffee/id6737855691) & [android](https://play.google.com/store/apps/details?id=app.fely.id38)**
+- **Tortuga [ios](https://apps.apple.com/tr/app/tortuga/id6720740715) & [android](https://play.google.com/store/apps/details?id=app.fely.id23)**
 
 ---
 
