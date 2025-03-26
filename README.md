@@ -29,17 +29,17 @@ As Orhan Gencebay said: *"No slave or code is flawless."* 😊
 - **Description:**  A loyalty payment app that allows users to make fast and secure payments using QR codes for daily shopping.  
 - **Technologies:** Flutter, Dart, Restful API, Firebase Messaging, Firebase Analytics
 
-### **staffely (https://apps.apple.com/tr/app/staffely/id6450368658) & [android](https://play.google.com/store/apps/details?id=app.fely.staff)**  
+### **staffely [ios](https://apps.apple.com/tr/app/staffely/id6450368658) & [android](https://play.google.com/store/apps/details?id=app.fely.staff)**  
 - **Platform:** iOS & Android  
 - **Description:** A QR code-based payment app specifically developed for employees to receive payments.
 - **Teknolojiler:** Flutter, Dart, Restful API, Firebase Messaging, Firebase Analytics
 
-### **tidybox (https://apps.apple.com/tr/app/tidyboxapp/id6739962001) & [android](https://play.google.com/store/apps/details?id=com.botart.app.tidybox)**  
+### **tidybox [ios](https://apps.apple.com/tr/app/tidyboxapp/id6739962001) & [android](https://play.google.com/store/apps/details?id=com.botart.app.tidybox)**  
 - **Platform:** iOS & Android  
 - **Description:** An app that helps you manage and easily find your items. It uses AI-assisted image processing to help define the contents of boxes. 
 - **Technologies:** Flutter, Dart, Firebase, AI
 
-### **akripol (https://apps.apple.com/tr/app/akripol/id1536710189?l=tr) & [android](https://play.google.com/store/apps/details?id=tr.com.akripol.mobile)**  
+### **akripol [ios](https://apps.apple.com/tr/app/akripol/id1536710189?l=tr) & [android](https://play.google.com/store/apps/details?id=tr.com.akripol.mobile)**  
 - **Platform:** iOS & Android  
 - **Description:** An app that provides quick access to AkzoNobel Vehicle Refinishes products. 
 - **Technologies:** Flutter, Dart, Restful API, Firebase Messaging
