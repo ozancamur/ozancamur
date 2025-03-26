@@ -22,7 +22,7 @@ As Orhan Gencebay said: *"No slave or code is flawless."* 😊
 
 ---
 
-## 📈 Projelerim
+## 📈 My Prjects
 
 ### **fely [ios](https://apps.apple.com/tr/app/fely/id6443499504) & [android](https://play.google.com/store/apps/details?id=com.festivalpayment.fpay_mobile&hl=en)**  
 - **Platform:** iOS & Android  
@@ -44,7 +44,7 @@ As Orhan Gencebay said: *"No slave or code is flawless."* 😊
 - **Description:** An app that provides quick access to AkzoNobel Vehicle Refinishes products. 
 - **Technologies:** Flutter, Dart, Restful API, Firebase Messaging
 
-### **Whitelabel Kahve Uygulamaları**  
+### **Whitelabel Coffee Apps**  
 - **Platform:** iOS & Android  
 - **Description:** A mobile platform allowing users to make loyalty payments using a wallet for a business.
 - **Technologies:** Flutter, Dart, Firebase, Restful API
