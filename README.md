@@ -24,7 +24,7 @@ As Orhan Gencebay said: *"No slave or code is flawless."* 😊
 
 ## 📈 My Prjects
 
-### **dream ai **  
+### **dream ai**  
 - **Platform:** iOS & Android  
 - **Description:**  An AI-powered mobile app where users can write down their dreams, receive detailed interpretations using Google Gemini, view psychological analyses with charts, generate visual representations of their dreams, and share them within a community.
 - **Technologies:** Flutter, Dart, GetX, Firebase Auth, Firestore, Firebase Messaging, Google Generative AI, Google Mobile Ads, In-App Purchase, Dio, fl_chart, share_plus
@@ -104,7 +104,7 @@ Ne demiş Orhan Gencebay: *"Hatasız ne kul olur ne de kod olur"* 😊
 
 ## 📈 Projelerim
 
-### **dream ai **  
+### **dream ai**  
 - **Platform:** iOS & Android  
 - **Açıklama:** Yapay zeka destekli bu uygulama ile kullanıcılar rüyalarını yazabilir, Google Gemini ile yorum alabilir, psikolojik analiz sonuçlarını grafiklerle görebilir, rüyalarına özel görseller oluşturabilir ve toplulukla paylaşabilir.
 - **Teknolojiler:** Flutter, Dart, GetX, Firebase Auth, Firestore, Firebase Messaging, Google Generative AI, Google Mobile Ads, In-App Purchase, Dio, fl_chart, share_plus
