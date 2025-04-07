@@ -26,8 +26,8 @@ As Orhan Gencebay said: *"No slave or code is flawless."* 😊
 
 ### **dream ai **  
 - **Platform:** iOS & Android  
-- **Açıklama:** Yapay zeka destekli bu uygulama ile kullanıcılar rüyalarını yazabilir, Google Gemini ile yorum alabilir, psikolojik analiz sonuçlarını grafiklerle görebilir, rüyalarına özel görseller oluşturabilir ve toplulukla paylaşabilir.
-- **Teknolojiler:** Flutter, Dart, GetX, Firebase Auth, Firestore, Firebase Messaging, Google Generative AI, Google Mobile Ads, In-App Purchase, Dio, fl_chart, share_plus
+- **Description:**  An AI-powered mobile app where users can write down their dreams, receive detailed interpretations using Google Gemini, view psychological analyses with charts, generate visual representations of their dreams, and share them within a community.
+- **Technologies:** Flutter, Dart, GetX, Firebase Auth, Firestore, Firebase Messaging, Google Generative AI, Google Mobile Ads, In-App Purchase, Dio, fl_chart, share_plus
   
 ### **fely [ios](https://apps.apple.com/tr/app/fely/id6443499504) & [android](https://play.google.com/store/apps/details?id=com.festivalpayment.fpay_mobile&hl=en)**  
 - **Platform:** iOS & Android  
@@ -106,7 +106,7 @@ Ne demiş Orhan Gencebay: *"Hatasız ne kul olur ne de kod olur"* 😊
 
 ### **dream ai **  
 - **Platform:** iOS & Android  
-- **Açıklama:** An AI-powered mobile app where users can write down their dreams, receive detailed interpretations using Google Gemini, view psychological analyses with charts, generate visual representations of their dreams, and share them within a community.
+- **Açıklama:** Yapay zeka destekli bu uygulama ile kullanıcılar rüyalarını yazabilir, Google Gemini ile yorum alabilir, psikolojik analiz sonuçlarını grafiklerle görebilir, rüyalarına özel görseller oluşturabilir ve toplulukla paylaşabilir.
 - **Teknolojiler:** Flutter, Dart, GetX, Firebase Auth, Firestore, Firebase Messaging, Google Generative AI, Google Mobile Ads, In-App Purchase, Dio, fl_chart, share_plus
  
 ### **fely [ios](https://apps.apple.com/tr/app/fely/id6443499504) & [android](https://play.google.com/store/apps/details?id=com.festivalpayment.fpay_mobile&hl=en)**  
