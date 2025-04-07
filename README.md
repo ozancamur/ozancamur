@@ -6,7 +6,7 @@ As a **Flutter Developer**, I love creating user-friendly and stylish applicatio
 
 🌟 **About Me**
 
-**Specialization:** Flutter & Dart Mobil Application Developer
+**Specialization:** Flutter & Dart Mobil Application Developer <br>
 **Technologies:**  
 - **Flutter & Dart** (GetX, Flutter BLoC, Android, iOS, CleanCode, Performance, UI&UX)  
 - **Firebase & Google Cloud Run** (Firestore, Realtime Database, Messaging, App Check, Storage, Cloud Functions, Authentication, Crashlytics, Analytics)  
