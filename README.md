@@ -24,7 +24,12 @@ As Orhan Gencebay said: *"No slave or code is flawless."* 😊
 
 ## 📈 My Prjects
 
-### **dream ai**  
+### **liftIQ ios coming soon & [android](https://play.google.com/store/apps/details?id=com.botart.app.liftiq&hl=en)**  
+- **Platform:** iOS & Android  
+- **Description:**  Lift IQ is an innovative application that uses artificial intelligence to analyze users' weightlifting videos. Users can upload their lifting videos, and the AI analyzes their form and technique, providing insightful feedback. Additionally, the app features an AI-powered chat where users can ask questions and receive personalized advice to improve their performance. Lift IQ is designed to help athletes and fitness enthusiasts enhance their lifting techniques and reach their training goals effectively.
+- **Technologies:** Flutter, Dart, Flutter BLoC, easly_loclaization, image_picker, http
+
+### **dream ai ios  & android coming soon**  
 - **Platform:** iOS & Android  
 - **Description:**  An AI-powered mobile app where users can write down their dreams, receive detailed interpretations using Google Gemini, view psychological analyses with charts, generate visual representations of their dreams, and share them within a community.
 - **Technologies:** Flutter, Dart, GetX, Firebase Auth, Firestore, Firebase Messaging, Google Generative AI, Google Mobile Ads, In-App Purchase, Dio, fl_chart, share_plus
@@ -104,7 +109,12 @@ Ne demiş Orhan Gencebay: *"Hatasız ne kul olur ne de kod olur"* 😊
 
 ## 📈 Projelerim
 
-### **dream ai**  
+### **liftIQ ios coming soon & [android](https://play.google.com/store/apps/details?id=com.botart.app.liftiq&hl=en)**  
+- **Platform:** iOS & Android  
+- **Açıklama:**  Lift IQ, kullanıcıların halter kaldırma videolarını yapay zeka ile analiz edebileceği yenilikçi bir uygulamadır. Kullanıcılar, kaldırma videolarını yükleyerek yapay zekanın form ve teknik analizini alabilir. Ayrıca, uygulama içerisinde yer alan yapay zeka destekli sohbet özelliğiyle kullanıcılar, performanslarını iyileştirmek için kişisel tavsiyeler alabilir. Lift IQ, sporcuların ve fitness tutkunlarının kaldırma tekniklerini geliştirmelerine ve antrenman hedeflerine etkin bir şekilde ulaşmalarına yardımcı olmayı amaçlar.
+- **Teknolojiler:** Flutter, Dart, Flutter BLoC, easly_loclaization, image_picker, http
+- 
+### **dream ai ios  & android coming soon**  
 - **Platform:** iOS & Android  
 - **Açıklama:** Yapay zeka destekli bu uygulama ile kullanıcılar rüyalarını yazabilir, Google Gemini ile yorum alabilir, psikolojik analiz sonuçlarını grafiklerle görebilir, rüyalarına özel görseller oluşturabilir ve toplulukla paylaşabilir.
 - **Teknolojiler:** Flutter, Dart, GetX, Firebase Auth, Firestore, Firebase Messaging, Google Generative AI, Google Mobile Ads, In-App Purchase, Dio, fl_chart, share_plus
