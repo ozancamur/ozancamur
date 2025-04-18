@@ -24,7 +24,7 @@ As Orhan Gencebay said: *"No slave or code is flawless."* 😊
 
 ## 📈 My Prjects
 
-### **liftIQ ios coming soon & [android](https://play.google.com/store/apps/details?id=com.botart.app.liftiq&hl=en)**  
+### **liftIQ [ios](https://apps.apple.com/us/app/liftiq/id6744523581) & [android](https://play.google.com/store/apps/details?id=com.botart.app.liftiq&hl=en)**  
 - **Platform:** iOS & Android  
 - **Description:**  Lift IQ is an innovative application that uses artificial intelligence to analyze users' weightlifting videos. Users can upload their lifting videos, and the AI analyzes their form and technique, providing insightful feedback. Additionally, the app features an AI-powered chat where users can ask questions and receive personalized advice to improve their performance. Lift IQ is designed to help athletes and fitness enthusiasts enhance their lifting techniques and reach their training goals effectively.
 - **Technologies:** Flutter, Dart, Flutter BLoC, easly_loclaization, image_picker, http
@@ -109,7 +109,7 @@ Ne demiş Orhan Gencebay: *"Hatasız ne kul olur ne de kod olur"* 😊
 
 ## 📈 Projelerim
 
-### **liftIQ ios coming soon & [android](https://play.google.com/store/apps/details?id=com.botart.app.liftiq&hl=en)**  
+### **liftIQ [ios](https://apps.apple.com/us/app/liftiq/id6744523581) & [android](https://play.google.com/store/apps/details?id=com.botart.app.liftiq&hl=en)**  
 - **Platform:** iOS & Android  
 - **Açıklama:**  Lift IQ, kullanıcıların halter kaldırma videolarını yapay zeka ile analiz edebileceği yenilikçi bir uygulamadır. Kullanıcılar, kaldırma videolarını yükleyerek yapay zekanın form ve teknik analizini alabilir. Ayrıca, uygulama içerisinde yer alan yapay zeka destekli sohbet özelliğiyle kullanıcılar, performanslarını iyileştirmek için kişisel tavsiyeler alabilir. Lift IQ, sporcuların ve fitness tutkunlarının kaldırma tekniklerini geliştirmelerine ve antrenman hedeflerine etkin bir şekilde ulaşmalarına yardımcı olmayı amaçlar.
 - **Teknolojiler:** Flutter, Dart, Flutter BLoC, easly_loclaization, image_picker, http
