@@ -6,7 +6,7 @@
 - Ask me about **Flutter, Firebase, Supabase, Kotlin and Swift**
 - How to reach me: [LinkedIn](https://www.linkedin.com/in/ozancamur/) | [E-Mail](mailto:ozancamur1006@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozancamur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozancamur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 #
 
