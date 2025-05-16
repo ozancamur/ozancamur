@@ -5,7 +5,7 @@
 - I’m currently learning **Backend Development**
 - Ask me about **Flutter, Firebase, Supabase, Kotlin and Swift**
 - How to reach me: [E-Mail](mailto:ozancamur1006@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/ozancamur/) | [Behance](https://www.behance.net/ozancamur)
+- [LinkedIn](https://www.linkedin.com/in/ozancamur/) | [Behance](https://www.behance.net/ozancamur) | [Instagram](https://www.instagram.com/ozancamur_dev/)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozancamur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 #
