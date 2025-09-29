@@ -14,7 +14,6 @@
 <p align="left">
 <strong>Design Tool:</strong><br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Motiff-AI-%23000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" height="40"/> <!-- Özel logo yok, text badge -->
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" height="40"/>
 <br/><br/>
 <strong>Programming Languages:</strong><br/><br/>
