@@ -44,7 +44,7 @@
 class WhoAmI {
   final String name = "Ozan Çamur";
   final int birthYear = 2000;
-  final String city = "İzmir, Turkey";
+  final String city = "Istanbul, Turkey";
   final String education = "Graduated Muğla Sıtkı Koçman University";
   final String department = "Information Systems Engineering";
 
