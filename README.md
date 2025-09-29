@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozan Çamur</h1>
-<h3 align="center">Mobile Application Developer from Türkiye</h3>
+<h3 align="center">Mobile Application Developer from Turkiye</h3>
 
 - I’m currently working on **Flutter, Kotlin and Swift**
 - I’m currently learning **Backend Development**
@@ -44,7 +44,7 @@
 class WhoAmI {
   final String name = "Ozan Çamur";
   final int birthYear = 2000;
-  final String city = "Istanbul, Turkey";
+  final String city = "Istanbul, Turkiye";
   final String education = "Graduated Muğla Sıtkı Koçman University";
   final String department = "Information Systems Engineering";
 
