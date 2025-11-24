@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ozan Çamur</h1>
 <h3 align="center">Mobile Application Developer from Turkiye</h3>
 
-- I’m currently working on **Flutter, Kotlin and Swift**
-- I’m currently learning **Backend Development**
-- Ask me about **Flutter, Firebase, Supabase, Kotlin and Swift**
+- I’m currently working on **Flutter, Swift and Kotlin**
+- I’m currently learning **iOS Development**
+- Ask me about **Flutter, Firebase, Supabase**
 - How to reach me: [E-Mail](mailto:ozancamur1006@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ozancamur/) | [Instagram](https://www.instagram.com/ozancamur_dev/)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozancamur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
